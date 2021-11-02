@@ -4,4 +4,4 @@ Project:
 
 Team: Group 10
 
-Members: Berkay Talha Acar
+Members: Berkay Talha Acar, Rishit Kalra
