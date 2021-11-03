@@ -4,4 +4,4 @@ Project:
 
 Team: Group 10
 
-Members: Berkay Talha Acar, Rishit Kalra
+Members: Berkay Talha Acar, Rishit Kalra, Stephen Pon
